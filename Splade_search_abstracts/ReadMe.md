@@ -1,4 +1,5 @@
-Le notebook contient un moteur de recherche utilisant Splade sur un ensemble de papiers de recherche.
+Le notebook contient un **moteur de recherche utilisant Splade** sur un ensemble de papiers de recherche.
+
 **pdfs** contient les papiers et **Abstracts** contient les résumés contenus dans les papiers.
 
 - J'ai vectorisé les documents dans le dossier **Vectors_all** qui contient une liste de termes pondérés pour chaque document.
