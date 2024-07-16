@@ -1,0 +1,236 @@
+hour
+chronic
+past medical history
+allergies
+present illness
+rectum
+seton
+bright red blood
+icu
+day
+family history
+discharge date
+prehospital medications
+major surgical
+ext
+pt-107.3
+lisinopril
+md
++ pitting edema b
+nd
+lastname
+poor preparation
+pe
+coumadin levels
+floor
+multiple large clots
+need
+* * name8
+sig
+htn
+stool
+blood
+wife
+none
+penicillins
+debridement
+cardiac thrombus
+initial inr
+anal seton placement
+inr
+.
+tobocco
+nt
+ffp
+ef
+left knee
+hisotry
+children
+clothes
+invasive procedure
+appetite
+service
+anal fissure
+admission date
+crohn
+hct-28.2 * mcv-85
+urean-19 creat-1.4 *
+high fevers
+discharge medications
+stitle
+protonix
+occasional etoh
+diet
+disorders
+chief complaint
+rehab
+p meniscectomy
+surgery service
+a&o x
+* * name6
+* *
+extended care
+primary care physician
+dark red
+* * location
+* refills:*2
+yo m
+l
+fax
+brief hospital course
+lower gi
+pertinent results
+gi
+coumadin dose
+hours
+md phone:[**telephone
+rrr
+hct-22.4
+bloody bowel movements
+remicade
+percocet
+tablet sig
+bedtime
+time
+* last name
+name3
+mb
+cancer
+sex
+dizziness
+refills:*0
+v
+* ptt-30.2 inr(pt)-1.4
+n
+dz
+hd
+nausea
+h
+%
++ bs
+wbc-11.2
+mb-2 ctropnt-0.03
+un
+hypotension
+plt ct-571 *
+father
+ck
+prbcs
+borderline urine output
+results
+times
+unit
+birth
+place
+abd
+mother
+diagnosis
+p appendectomy
+etoh abuse
+strings
+inr checks
+tablet(s
+discharge instructions
+* * telephone
+associated dizziness
+delayed release
+toilet water
+surgery
+hx
+na-139 k-3.9 cl-106 hco3
+rate
+colace
+facility
+lvh
+dr.
+recent pulmonary embolism-
+blood hct-28.7 *
+emesis
+days
+social history
+care
+lower gi bleed
+discharge condition
+diabetes
+appointment
+tablet po
+gi service
+pt-22.2 * ptt-30.9 inr(pt)-2.2 * fibrino-412 * #
+disposition
+atenolol
+rbc-3.30 *
+mi
+:*
+p turp
+po
+chills
+rheumatoid arthritis
+capsule po
+new ones
+lv enlargement
+nad
+fevers
+admission
+er
+years
+anticoagulation
+date
+knowledge
+illicit drugs
+initial hct
+knee pain
+followup instructions
+severe pain
+doctor
+mch-27.7 mchc-32.5 rdw-15.9
+mg-1.0 *
+capsule sig
+attempts
+ed
+episodes
+medications
+change
+lv thrombus
+colonoscopy
+patient
+glucose-108
+hydroxychloroquine
+cirrhosis
+* * name10
+* inr(pt)-15.1 *
+lf
+mg tablet sig
+coumadin
+amount
+mr.
+renal calculus
+p cholecystectomy
+units
+discharge
+hct
+lidocaine ointment
+physical exam
+notdone
+ctab
+e.c.
+nameis
+mg qhs
+masses
+recent gallstone pancreatitis
+ptt-40.8
+angap-14
+lasix
+pcp
+* * doctor first name * *
+vitamin k.
+*
+apical lv aneurysm
+pre
+following day
+physical therapy
+tablet
+history
+p
+tablets po
+area
+* * name initial

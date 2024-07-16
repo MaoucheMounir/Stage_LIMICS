@@ -1,0 +1,495 @@
+hypertension
+allergies
+indx-6.3 * ctropnt-2.61 *
+pressure
+echo
+family history
+discharge date
+gallon jug
+dopplerable
+md
+breakfast
+hr
+foley placement
+st
+images
+lung fields
+blood
+scoliosis
+severe sharp chest pain
+50s
+abdominial bruits
+improvement
+om1
+hematuria
+initial troponin
+iv
+worsening
+invasive procedure
+symptoms
+cessation
+last name
+ccu
+bed
+xanthomas
+lasix drip
+current episode
+ekg changes
+jump segment
+isordil
+perrl
+rpda
+jvp
+* * location
+moderate regional left ventricular systolic dysfunction
+p cabg
+rhythm
+dyslipidemia
+mid - lad
+tachypneic
+ace
+lescol
+cxr
+ntnd
+plan
+blood pressures
+mmhg
+discussion
+# acute
+absence
+water
+placement
+frequent atrial premature beats
+hypotension
+dirbili-0.3
+ck
+abd
+interval
+sinus rhythm
+previous tracing
+monos-3.0 eos-0.7
+surgery
+potential emergent aortic valvuloplasty
+# rhythm
+artery
+palpation
+occasional ventricular
+iv lasix drip
+lasix gtt
+# hematoma
+diabetes
+cardiac enzymes
+pressor support
+thiamine
+atenolol
+benefits
+minutes
+peripheral arterial disease
+mg po
+nad
+conjunctiva
+pm
+mg
+knee pain
+ventricular systolic
+medications
+08:00pm blood neuts-74.3 * lymphs-21.9
+patient
+po amiodarone
+aortic valve stenosis
+early coronary disease
+amount
+conduction defect
+chronic renal failure
+pcwp>18mmhg
+12:33pm
+neck
+crackles
+aortic stenosis
+cad
+ros
+risks
+creat
+90s
+subsequent weeks
+* * doctor first name * *
+*
+use
+bibasilar atelectasis
+low 100s
+recovery
+p
+inferolaterl
+mitral valve leaflets
+rpl
+right profunda
+right internal jugular vein
+day
+deceased
+major surgical
+event
+ext
+b6
+walls
+* * name8
+coronary anatomy
+presenting vitals bp
+aortic valve replacement
+heent
+questioning
+minutes rest
+ulcers
+s2
+orthopnea
+arrest
+cardiogenic shock
+gemfibrozil
+femoral bruits
+hgb-13.3 * hct-37.9 *
+hyperlipidemia
+gross hematuria
+04:55pm blood ck
+systolic dysfunction
+workup
+symmetric left ventricular hypertrophy
+ventricular rate
+anatomy
+mitral regurgitation
+pl
+right internal jugular venous access
+hospital echo
+* * name6
+tissue doppler imaging
+wbc-8.1 # rbc-4.11
+outpatient
+traumatic foley
+acceptable candidate
+palpable pulse
+dp
+l
+pertinent results
+b12
+discharge diagnosis
+# cad
+time
+diaphoresis
+pda
+levophed
+ventricular chamber size
+nausea
+chest
+father
+ra
+k-4.6 cl-96 hco3
+glipizide
+pulseless electrical activity arrest
+basal half
+rate
+dypsnea
+08:00pm blood ck
+renal insufficiency
+past year
+pericardial effusion
+diastolic heart failure
+disposition
+mg sq
+mild hypokinesis
+stasis dermatitis
+distal pda
+poor exercise
+- assessment
+good urine output
+msc
+initiation
+1l ns
+metformin
+rca
+zocor
+echocardiogram
+ambulance
+lasix drop
+supravalvular aortography
+s1
+vide infra
+troponin
+diagonal
+tp pulses
+physical exam
+moderate aortic stenosis
+sister
+namepattern2
+chair
+pmi diffuse
+lasix
+probnp-[**numeric identifier
+usual state
+hsm
+peripheral bypass
+nitropaste
+ivf
+brother
+simvastatin
+history
+left ventricle
+minimal exertion
+hour
+pea arrest
+present illness
+stroke
+metoprolol
+chronic lv
+telemetry
+other svg
+attending:[**doctor
+nose bleed
+heart failure
+scale
+lisinopril
+atrial fibillation
+small hematoma
+precordium
+floor
+tolerance
+hospital er
+t wave
+gradual resolution
+none
+lantus
+baseline
+08:00pm blood
+gen
+ef
+shortness
+heparin drip
+lovenox
+x3
+abd aorta
+lower lungs
+admission date
+sbps
+systolic heart
+wall deformities
+03:44am blood plt ct-111
+nsr
+discharge medications
+elderly white male
+accesorry muscle use
+premature beats
+protonix
+chief complaint
+03:44am blood
+mg po tid
+morning
+ventricular hypertrophy
+inferolateral walls
+health
+diuresis
+coronary intervention
+left atrium
+pallor
+03:44am blood ck
+floor team
+sbp
+aortic regurgitation
+ems
+graft
+mb-7 ctropnt-0.64
+infarction
+moderate global free wall hypokinesis
+creatinine
+severe acute
+mcv-92 mch-32.4 *
+map
+failure
+un
+transfer
+lplt-2
+xl daily
+discharge instructions
+non - st segment
+* * hospital
+afib
+akinesis
+bedroom
+renal failure
+relative hypotension
+demand ischemia
+r.
+days
+social history
+thrombi
+mi
+acute
+exertion
+cm2
+percutaneous
+pain
+admission
+vs t
+bypass
+aortic valve leaflets
+setting
+likely sinus rhythm
+mb-7 ctropnt-0.69 *
+* * hospital1
+3rd open heart surgery
+mb-7 ctropnt-0.65 *
+local compression
+extensive family history
+coumadin
+response
+units
+months
+nstemi
+masses
+removal
+cabg
+jaw
+scars
+08:00pm blood alt-38 ast-46 * alkphos-66
+previous study
+followup instructions
+congestive heart
+chest x - ray
+past medical history
+cyanosis
+oxygen requirement
+catheter
+night
+-
+severe peripheral arterial disease
+plavix
+icu
+angina
+outside hospital
+ncat
+patent lima
+oral mucosa
+correlation
+ntg
+review
+lastname
+patent grafts
+way
+~500
+eomi
+rdw-14.1 plt
+systolic pressure
+near angle
+pulseless electrical arrest
+hctz
+cv
+tenderness
+stump occlusion
+segments
+dinner
+#
+aspirin
+housestaff
+baso-0.1
+lima
+right iliac artery stenting
+retrocardiac opacities
+prior report
+service
+cardiac history
+sclera anicteric
+ventricular systolic function
+atrial fibrillation
+severe aortic stenosis
+o2
+* first name8
+primary cardiologist
+bilateral pleural effusion
+systolic murmur heart
+blood caltibc-334 ferritn-93 trf-257
+* *
+heart
+svg
+traumatic hematuria
+initial exam
+patent svg
+acute heart
+nrb
+bilateral pleural effusions
+severe pulmonary edema
+lvef
+ecg
+brief hospital course
+mb-63 * mb
+mellitus
+coronary artery disease
+r
+alcohol abuse
+lad
+median sternotomy
+atrial premature beats
+bedtime
+glucose-195 * urean-30 * creat-1.4 * na-133
+08:00pm blood fibrino-760 *
+mb-10 mb indx-3.9
+renal failre
+ventricular systolic heart failure
+apex
+new moderate-
+severity
+obvious ventricular arrhythmias
+term
+60s-70s
+om
+breath
+chest pain
+bp
+cardiac surgery consult
+condition
+vasovagal episode
+hd
+unknown dose
+%
+mb-8 ctropnt-0.67 *
+right system
+heart size
+pulmonary edema
+mild aortic insufficiency
+fib rr
+central venous line insertion
+left
+point
+po
+ed visit
+lungs
+evening
+exertional dyspnea
+beats
+pressors
+patent jump graft
+chest compressions
+osteoarthritis
+catherization laboratory
+renal function
+skin
+kyphosis
+normal cavity size
+~600cc diuresis
+dyspnea
+amiodarone iv
+mr.
+angap-17
+bigeminal pattern
+atelectasis
+filling pressure
+blood ck
+likely part
+bilateral perihilar haziness
+treatment
+inhibitor
+medicine
+gallop
+cat
+yo man
+current tobacco
+xanthalesma
+site
+clots
+stump
+area

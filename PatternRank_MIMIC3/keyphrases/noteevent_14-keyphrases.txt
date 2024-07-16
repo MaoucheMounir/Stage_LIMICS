@@ -1,0 +1,192 @@
+hypertension
+gcs
+home
+allergies
+present illness
+urine
+prescriptions
+pressure
+white blood count
+illicits
+normocephalic
+discharge date
+oropharynx
+cm
+field
+discharge status
+heart rate
+lastname
+thrombocytopenia
+floor
+attempt
+m.d.
+omental bleeding
+heent
+status post
+vna
+extraocular motions
+lactate
+knife
+tricuspid regurgitation
+risperdal
+baseline
+up plans
+drug abuse
+pulse oximetry
+accommodation
+inr
+operative note
+complete report
+ffp
+klonopin
+light
+laboratory data upon admission
+past
+pain service
+narcotics
+wheelchair
+last name
+trauma room
+service
+prosthesis
+admission date
+chronic venostasis changes
+name pattern1
+count
+leg
+bed
+reactive
+inch knife
+discharge medications
+extensive lysis
+sicu
+stitle
+diet
+control
+allergy
+epivir
+toxicology
+services
+* *
+extremities
+respiratory rate
+tms
+home p.o
+knee amputation
+physical examination on admission
+focal deficits
+antibody
+rhythm
+truck
+operating room
+lopressor
+subclavian line placement
+staples
+aggressive bowel regimen
+complaints
+blood pressure
+murmurs
+* last name
+male
+blood loss
+wound
+sex
+creatinine
+nurse practitioner
+bit
+chemistries
+hiv
+msir
+fibrinogen
+nontender
+reasons
+condition
+job #
+chest
+%
+upper quadrant wound
+cause
+blood gas 7.39/49/341/31/4
+deformities
+temperature
+birth
+inches
+place
+unit
+ziagen
+folate
+term nurse practitioner
+* * job number
+amylase
+gallops
+surgery
+hospital day number
+step
+klonopin dose
+dr.
+hospital courses
+penicillin
+subcutaneous air
+ptt
+good tone
+thiamine
+dressings
+namepattern1
+external blood
+vital signs
+oriented times
+hospital course
+bactrim double strength
+abdomen
+regular rate
+narcotic abuse
+adhesions
+pain
+admission
+heparin
+years
+date
+methadone
+red cells
+cardiac
+day number
+normal limits
+by:[**last name
+pt
+multivitamins
+medications
+patient
+auscultation
+hematocrit
+primary care doctor
+wound exploration
+exploratory laparotomy
+hiv disease
+* * first name11
+drugs
+mr.
+congestive heart failure
+units
+cryoprecipitate
+pupils
+rectus
+discharge
+bowels
+trauma clinic
+rubs
+intravenous drug abuse
+right
+prilosec
+* * md number(1
+year
+lasix
+cc
+dose
+*
+physical therapy
+case management
+admission medications
+history
+medical history
+follow
+chest x - ray

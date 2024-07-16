@@ -1,0 +1,581 @@
+hypertension
+home
+allergies
+tablet po bid
+pressure
+echo
+family history
+discharge date
+1.5l
+intrinsice av conduction
+* * date range
+pressure medications
+extra fluid
+md
+hr
+sided pacemaker
+rhinitis
+pulmonary
+11:30pm urea n-105 * creat-5.4 * #
+daily
+250cc ns
+tunneled dialysis catheter
+blood
+np note
+abdominial bruits
+le
+job
+improvement
+11:30pm
+tricuspid regurgitation
+atrium
+pulses
+cardiac output
+inr
+iv
+dialysis center
+oliguria x
+dl
+invasive procedure
+obesity
+codeine
+last name
+ccu
+tablet po hs
+xanthomas
+rr
+lasix drip
+allergic
+cognis
+total co2
+significant muscle
+branch
+melena
+mcg capsule
+milrinone
+pacing
+perrl
+jvp
+note
+* * location
+arch
+rhythm
+chem
+right ventricular cavity
+dopamine gtt
+ttp
+prednisone
+cane
+cxr
+e.
+blood pressure
+# copd
+neg bilirubin
+# acute
+exam
+placement
+week
+hd#6
+volume overload
+hypotension
+full code status
+systolic hypertension
+results
+pulmonary arteries
+* * name
+bid
+levofloxacin
+nephrocaps
+uo
+sinus rhythm
+mch-29.7
+center
+non - contributory
+fluid
+facility
+phone
+iron studies
+discharge condition
+lasix gtt
+exacerbation
+pressor support
+d dual chamber
+copd
+discomfort
+anion gap-20
+chronic hd
+function
+presentation
+recent cough
+zolpidem
+minutes
+pravastatin
+anemia
+capsule po
+pulsatile liver
+focal calcifications
+ipratropium nebulizer
+pm
+specialty
+activity status
+mg
+rdw-18.5
+gout flare
+ambulatory
+pt
+ruq
+11:30pm tsh-14 *
+ed
+medications
+change
+tunneled line
+warfarin
+patient
+effusions
+recent productive cough
+cap inhalation daily
+o2sat
+weight
+chronic renal failure
+crackles
+hypertrophic obstructive
+popliteal
+aortic stenosis
+cad
+hemorrhage
+current sob
+creat
+11:30pm plt count-100
+*
+-cardiomyopathy
+tunneled dialysis
+total
+vi hsm
+p
+apical segments
+difficulty
+chronic
+mitral valve leaflets
+urine
+iron binding capacity
+cvvh
+day
+w
+vitamin c
+major surgical
+stable
+several days
+insomnia
+details
+dry weight
+anterior le
+* * name8
+12:40am urine blood
+aair
+heent
+ferritin
+active issues
+ulcers
+orthopnea
+2l nc
+distension
+hypokalemia
+artery disease
+regurgitation
+outpatient hd
+wheezing
+l.
+systolic chf
+past
+start
+cr
+outpatient dialysis
+basal
+outpatient lab work
+renal perfusion
+name pattern1
+ng
+nc
+nitroglycerin
+neg urobilngn-2 *
+cardiology department
+lbs
+admission exam
++
+stairs
+tachycardia
+renal
+tiotropium bromide
+gout
+outpatient
+care clinic
+mondays
+heart rates
+dp
+fax
+pertinent results
+chewable(s
+native sinus rhythm
+# cad
+pressure support
+atorvastatin
+time
+accessory muscle use
+outpatient hemodialysis
+e / infiltrate
+fluid intake
+hd#7
+neg protein
+random urea n-265 creat-152
+nausea
+pacemaker settings
+h
+rbc-3.46 * hgb-10.3 * hct-30.3 * mcv-87
+ipratropium
+vitals
+diagnosis
+diarrhea
+03:03am urine hours
+walker
+cardiac risk factors
+pt-21.6
++ hld
+discharge labs
+hypervolemia
+mcg
+home allopurinol
+puff inhalation q6h
+percutaneous coronary interventions
+cough
+care
+disp:*4 tablet(s
+pericardial effusion
+tablet po
+palpitations
+disposition
+glucose
+borderline
+level
+antihypertensive medications
+stasis dermatitis
+abdomen
+mode
+home o2
+congestion
+date
+fax #
+capsule sig
+moderate
+diverticulosis
+hospitalization
+diuretic regimen
+potassium-3.4
+diuretic therapy
+lf
+ccu course
+discharge
+physical exam
+po daily
+sister
+puff
+right
+namepattern2
+cardiomegaly
+preparation
+internal medicine
+sodium
+furosemide
+lasix
+tablet
+fluticasone
+history
+constipation
+home dose
+urine output
+low urine
+present illness
+disp:*60 tablet(s
+aldactone rx
+f copd exacerbation
+ptt-34.3 inr(pt)-2.0 *
+heart failure
+home blood
+bibasilar
+ventricular pacing
+tablet po every
+# gout
+chronic stage iii
+unspecified cataract
+hematochezia
+pneumothorax
+floor
+metolazone
+neg ketone
+hyponatremia
+sublingual sig
+drowsy
+puff inhalation
+icd
+breathing
+penicillins
+ams
+home asa
+baseline
+ppd
+aortic outflow obstruction
+gen
+labs
+ef
+kidneys
+shortness
+peripheral edema
+admission date
+discharge medications
+therapy
+2lnc
+cap
+b
+cvvhd
+stable issues
+chief complaint
+disp:*90 tablet(s
+ventricular hypertrophy
+mental status
+* * md number(2
+diuresis
+mitral valve prolapse
+* refills:*2
+yellow sputum
+left atrium
+04:09pm ck(cpk)-66
+w baseline
+sbp
+g ceftriaxone
+patients
+hours
+ferrous gluconate
+tablet sig
+abnormal heart
+aortic regurgitation
+tablet po daily
+ems
+remote smoking
+treatments
+etoh history
+general
+r subclavian
+stable bp
+inhalation
+refills:*0
+* * numeric identifier
+failure
+un
+colon polyps
+ctropnt-0.17 *
+transfer
+inhalation device sig
+* * company
+hospital
+cause
+na
+times
+* * telephone
+discharge instructions
+native coronary artery
+* * hospital
+elevated jvp
+kidney disease
+variation
+wednesdays
+fridays
+days
+systolic
+social history
+inhalation [ * *
+neg nitrite
+hd labs
+resp
+acute
+admission labs
+other past medical history
+pacemaker escape rate
+admission
+pain
+aortic valve leaflets
+setting
+cardiologist
+cardiac
+minimal urine output
+* * hospital1
+tuesday
+last hospitalization
+episodes
+neg
+mild pulmonary artery
+atrius records
+address
+coumadin
+-atrial fibrillation
+thursday
+* * first name11
+pts sodium
+frequent episodes
+months
+cabg
+dialysis line
+vitamin d
+jaw
+location
+scars
+pcp
+actuation hfa aerosol inhaler sig
+chronic obstructive pulmonary disease
+11:38pm lactate-1.5
+bp 110/56
+followup instructions
+pressures
+muscle
+focal consolidations
+nl
+free wall function
+hemodialysis
+transferrin
+catheter
+amiodarone
+-
+other day
+denies ivdu
+e
+chf
+ncat
+cm
+potassium-54 chloride-17
+dialysis
+namepattern4
+o2 requirement
+lastname
+sublingual
+detailed history
+eomi
+04:09pm ck
+consciousness
+femoral
+discharge exam
+11:30pm probnp-8699
+diastolic
+sbp 90s
+segments
+doa
+#
+r ij catheter
+edema
+device clinic
+tricuspid valve leaflets
+aspirin
+omr
+np
+medication
+service
+cardiac history
+sclera anicteric
+docusate sodium
+pulmonary artery
+right ventricular free wall thickness
+senna
+compliance
+atrial fibrillation
+colon
+chronic systolic heart failure
+pertinent studies
+* first name8
+iron
+elderly female
+q
+home albuterol
+tunneled hd line
+heart disease
+asynchronous ventricular pacing
+* *
+heart
+distant heart
+lls border
+psoriasis
+basilar atelectasis
+brief hospital course
+r
+coronary artery disease
+anuria
+rrr
+bedtime
+medicine service
+assistance
+mmm
+hd#2
+name3
+bp
+chest pain
+sex
+breath
+name
+hd
+special iv
+poor urine output
+antibiotics
+%
+dopamine
+primary reason
+birth
+tablet(s
+transitional issues
+w sob
+month
+500cc ns bolus
+p aicd placement
+o2 sats
+leuk
+appointment
+aid
+* telephone
+capsule inhalation
+namepattern1
+albuterol
+po
+recent fevers
+chills
+addition
+lungs
++ bulla
+brbpr
+unit tablet sig
+sublingual sublingual prn
+folic acid
+f
+ccc office c
+ultrafiltration
+# htn
+doctor
+cardiology
+sob
+skin
+c
+ni
+chewable
+carotid
+allopurinol
+# hyponatremia
+carvedilol
+prn
+ms.
+p vt
+03:03am urine osmolal-276
+chewable sig
+ii
+hd#6 patient underwent placement
+medicine
+hospitalizations
+right ventricular leads
+spironolactone
+actuation aerosol sig
+pleasure
+medical history
+hypervolemic hyponatremia

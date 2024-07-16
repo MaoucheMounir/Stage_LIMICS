@@ -1,0 +1,414 @@
+hypertension
+intermittent hematuria
+home
+strap
+pressure
+positive bowel
+family history
+discharge date
+neck exam
+oropharynx
+room air
+ischemic ekg changes
+machine
+segmental atelectasis
+combination
+discharge status
+pco2
+airways
+foley placement
+st
+lung fields
+norvasc
+moderate bilateral ethmoid
+oxygen
+up plans
+inhalation b.i.d
+hematuria
+code status
+light
+symptoms
+left lower lobe pneumonia
+strength
+last name
+rales
+evidence
+proton
+negative times
+bed
+hips
+restrictive lung defect
+intensive care unit
+stitle
+inflammatory process
+ekg changes
+right hand hematoma
+mri
+fvc ratio
+profuse
+normal sinus rhythm
+chest pressure
+cool mist shovel
+prednisone
+medical
+blood pressure
+iv x2
+mealtimes
+mg p.o . t.i.d
+p.o . q.d .
+dry mucous membranes
+upper extremities
+week
+profound muscle
+* * name
+levofloxacin
+* * job number
+care doctor
+adequate blood pressure control
+mask
+signs
+kaopectate
+discharge condition
+copd
+following
+midline
+mg p.o . q.d .
+zolpidem
+lacunar cva
+minutes
+hospital course
+trazodone
+prednisone taper
+narrowing
+headache
+oxygen saturation
+elbows
+mg
+lower lobe infiltrate
+cerebral hemispheres
+by:[**last name
+q.d .
+change
+general anesthesia
+aggressive steroid taper
+patient
+* * doctor last name *
+right maxillary
+mild edema
+communication
+weight
+maxillary
+neck
+interventional pulmonary service
+albuterol nebulizer q.4 . prn
+diltiazem
+muscle weakness
+normalization
+medical regimen
+*
+levothyroxine
+order
+difficulty
+motor vehicle accident
+expiration
+prior smoker
+white count
+abnormalities
+day
+nebulizers
+type
+puffs
+white matter
+imaging portion
+orthopnea
+imdur
+rate control
+upper airway
+mg iv q.6h . prn
+past
+known alcohol use
+axis
+persistent respiratory failure
+gas exchange
+noncontributory
+salmeterol diskus
+recent episode
+bronchial stent placement
+subq heparin
+respiratory failure
+mg p.o
+outpatient
+* first name3
+fax
+affect
+rest
+mg p.o . q.i.d
+tracheomalacia
+head injury
+time
+shift
+weakness
+time status post placement
+synthroid
+cpap machine
+rate pressure product
+nausea
+pantoprazole
+rashes
+chest pt
+medrol
+cepacol lozenges
+hospital course post extubation
+lidocaine
+mcg
+physical rehabilitation
+palpitations
+interventional
+6h
+glucose
+p.o . q.h.s . prn
+home o2
+* first name
+lorazepam
+years
+date
+ekg
+old female
+motor exam
+heart exam
+mcg q.d .
+hematocrit
+lesion
+eminent pediatric neurologist
+lf
+cks
+pump inhibitor
+troponin
+pupils
+discharge
+loud bilateral wheezing
+cognition
+mild degree
+right
+tracheomalacia status post tracheal
+chair
+cranial nerves ii
+concern
+fluticasone
+last pulmonary function tests
+negative cks x3
+history
+hour
+present illness
+hyperglycemia
+extraocular movements
+followup
+q.2h . prn
+q.d
+white blood cell count
+cepacol lozenges q.2h . prn
+scale
+heart rate
+distress
+depression
+floor
+lexapro
+steroids
+brief summary
+bronchodilator treatment
+etiology
+steroid taper
+breathing
+day course
+solution
+mcg p.o . q.d .
+accommodation
+sublingual nitroglycerin
+b.i.d
+swallow
+bronchoscopy
+shortness
+jugular venous pressure
+admission date
+profound leukocytosis
+discharge medications
+q.4
+latter region
+protonix
+multiple small foci
+insulin
+mental status
+dysphagia
+isosorbide dinitrate
+neurologic changes
+cannula
+minute
+job #
+evaluation
+microvascular infarction
+hospital
+lower extremities
+full code
+impaired ventilation
+ejection fraction
+* * telephone
+lower lobe
+mg p.o . q.24h
+liters
+respirations
+therapist
+husband
+fev1
+dr.
+prophylaxis
+days
+social history
+ankle
+q.1h
+mi
+exertion
+citalopram
+extensors
+admission
+main stem
+functional mobility
+* * hospital1
+acetaminophen
+bronchodilator
+laboratory studies
+vocal cord damage status post tracheal stent placement
+ipratropium bromide mdi
+nebulizer
+muscle atrophy
+benadryl
+units
+* first name4
+myocardial ischemia
+po2
+knee
+physical exam at time
+masses
+outpatient regimen
+year
+trachea
+expiratory
+physical therapy
+ability
+treatments q.4h
+foley catheter
+ventilation
+chest x - ray
+signal
+rigid bronchoscopy
+rhonchi
+bismuth
+cyanosis
+night
+ml p.o . b.i.d . prn
+micu
+left lower lobe
+angina
+review
+lastname
+emergency room
+subcutaneous b.i.d .
+gastrointestinal complaints
+head
+steroid
+initial blood gas
+pulmonology service
+mg q.d .
+hypothyroidism
+ventilatory defect
+cpap
+aspirin
+infection
+neurologist
+service
+high t2
+reactive
+normal levels
+pulmicort nebulizer b.i.d
+elderly female
+musculoskeletal performance
+* *
+turcica
+medications on admission
+extremities
+fact
+silicone stents
+kbl liquid
+pneumonia
+mg p.o . q.h.s . prn
+pons
+fvc
+medical floor
+bedtime
+axillary temperature
+episode
+study
+rehabilitation
+breath
+chest pain
+sex
+name
+supine
+speech
+final diagnoses
+nontender
+stent placement
+serial urinalyses
+%
+solu
+normal blood
+birth
+nebulizer treatment
+course
+labored breathing
+copd flare
+frontal sinus mucosal
+t wave changes
+electrolytes
+namepattern1
+albuterol
+chills
+addition
+oxygenation
+fevers
+empty sella
+beats
+heparin
+blocks
+f
+help
+systems
+leukocytosis
+endurance
+mmf
+thickening
+sore throat
+regimen
+dyspnea
+prn
+lightheadedness
+minimal right sphenoid
+vomiting
+moderate sized hiatal hernia
+stents
+emphysema
+vascular flow patterns
+weeks
+followup status post
+treatment
+normal midline strictures
+xii
+flexors
+medicine
+recent stress test
+question
+phase
+follow
+medical history
+lives
+air flow obstruction
+increase

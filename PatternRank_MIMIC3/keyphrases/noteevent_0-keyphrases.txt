@@ -1,0 +1,34 @@
+lesions
+radiologic studies
+sized left pleural effusion
+effect
+last name
+job #
+service
+admission date
+chest
+cavitary lesions
+head ct
+* first name8
+discharge date
+tuberculosis
+* * job number
+abdominal ct
+addendum
+outpatient
+* *
+infectious process
+* first name4
+m.d.
+left lung apex
+old infarction
+intracranial hemorrhage
+namepattern2
+* * md number(1
+namepattern1
+t10
+repeat imaging
+*
+by:[**hospital
+ct
+history
