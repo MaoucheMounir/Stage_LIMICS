@@ -1,0 +1,11 @@
+The use of the Singular Value Decomposition (SVD) has been proposed for text
+retrieval in several recent works [2, 6]. This technique uses the SVD to project very
+high dimensional document and query vectors into a low dimensional space. In this
+new space it is hoped that the underlying structure of the collection is revealed thus
+enhancing retrieval performance. Theoretical results [9, 3] have provided some evidence for this claim and to
+some extent experiments have confirmed this. However, these studies have mostly
+used small test collections and simplified document models. In this work we investigate the use of the SVD on large document collections. We show that, if interpreted as a mechanism for representing the terms of the collection, this technique alone is
+insucient for dealing with the variability in term occurrence.
+Section 2 introduces the text retrieval concepts necessary for our work. A
+short description of our experimental architecture is presented in Section 3. Section
+4 describes how term occurrence variability a ects the SVD and then shows how the decomposition influences retrieval performance. A possible way of improving SVD-based techniques is presented in Section 5 and we conclude in Section 6.

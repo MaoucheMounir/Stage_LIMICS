@@ -1,0 +1,16 @@
+In neural Information Retrieval (IR), ongoing research is directed
+towards improving the first retriever in ranking pipelines. Learning
+dense embeddings to conduct retrieval using efficient approximate
+nearest neighbors methods has proven to work well. Meanwhile,
+there has been a growing interest in learning sparse representations
+for documents and queries, that could inherit from the desirable
+properties of bag-of-words models such as the exact matching of
+terms and the efficiency of inverted indexes. Introduced recently,
+the SPLADE model provides highly sparse representations and competitive results with respect to state-of-the-art dense and sparse
+approaches. In this paper, we build on SPLADE and propose several
+significant improvements in terms of effectiveness and/or efficiency.
+More specifically, we modify the pooling mechanism, benchmark a
+model solely based on document expansion, and introduce models
+trained with distillation. We also report results on the BEIR benchmark. Overall, SPLADE is considerably improved with more than 9%
+gains on NDCG@10 on TREC DL 2019, leading to state-of-the-art
+results on the BEIR benchmark.

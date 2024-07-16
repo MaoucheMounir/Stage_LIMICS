@@ -1,0 +1,86 @@
+primary care physician
+discharge date
+condition
+surgery
+chief complaint
+smooth postoperative course
+peptic ulcer disease
+minimal exertion
+pacing wires
+surgical history
+mg p.o . b.i.d
+catheterization
+date
+drug allergies
+colace
+male
+grafts
+chest pain
+artery bypass graft times
+medications on admission
+m.d.
+job #
+status post
+cosopt eyedrops
+die followup
+vessel
+medical history
+home
+medquist36
+hypertension
+weeks
+medications
+lisinopril
+glaucoma
+cardiac surgery
+service
+years
+discharge
+heavy smoker
+percocet
+regular floor
+nasogastric tubes
+saphenous vein graft
+alphagan eyedrops
+history
+point
+left internal mammary artery
+patient
+months
+prilosec
+q.d .
+aspirin
+gastroesophageal reflux disease
+ulcer
+tablets p.o
+kcl
+p.o . q.d .
+discharge home
+wegener granulomatosis
+discharge status
+nicoderm
+lopressor
+birth
+dictated
+sex
+admission date
+day
+travatan eyedrops
+postoperative day
+zantac
+mg p.o . q.d .
+q.4
+present illness
+p.o . pain medication
+lasix
+vessel disease
+enteric
+cardiac disease
+hospital course
+year
+dr.
+coronary artery disease
+week
+complete resolution
+artery
+status post catheterization

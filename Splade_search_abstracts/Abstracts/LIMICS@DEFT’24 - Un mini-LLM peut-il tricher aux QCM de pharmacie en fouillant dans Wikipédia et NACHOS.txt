@@ -1,0 +1,9 @@
+This paper investigates two approaches to tackle the DEFT 2024 pharmacy multiple-choice question
+(MCQ) answering challenge using language models (LLMs) trained on open data with less than 3
+billion parameters. Both approaches rely on the Retrieval Augmented Generation (RAG) architecture
+to combine context retrieval from external knowledge bases (NACHOS and Wikipédia) with answer
+generation by the Apollo-2B LLM and a CamemBERT classifier. The first approach processes the
+MCQs directly and generates the answers in a single step, while the second approach first reformulates
+the MCQs into binary (Yes/No) questions and then generates an answer for each binary question. The
+latter approach obtains an Exact Match Ratio of 14.7 and a Hamming Score of 51.6 on the test set,
+highlighting the potential of RAG for Q/A tasks under such constraints.

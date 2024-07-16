@@ -1,0 +1,22 @@
+Background: The latest deep learning algorithms have significantly improved natural language
+processing tasks, including in the medical domain, by directly extracting patient information from
+clinical notes. However, these algorithms come with a high computational cost and are often not
+applicable at the scale of very large databases in the temporality of clinical practice.
+Objective: The objective of our study is the automatic detection of clinical documents of interest for
+a specific clinical question, with low computational cost, to be applied on a database of millions of
+documents. These sets of documents of interest constitute a pre-screening to allow the development
+of more complex algorithms.
+Method: The task was considered as an information retrieval task in French clinical texts. Two
+different methods were compared. For the first method, we used several state-of-the-art vector
+representations: TF-IDF, doc2vec, docBERT and tested if the closest documents are relevant. The
+second method consists in building a powerful query expansion from an entered key term, its French
+synonyms from UMLS and synonyms found by similarity with the embeddings of the CODER
+algorithm. These methods are developed and evaluated on a set of 8 and 20 phenotypes
+respectively. Our database corresponds to 2 million documents from a cohort of patients with four
+autoimmune diseases: systemic lupus erythematosus, scleroderma, antiphospholipid syndrome and
+Takayasu disease, from the AP-HP data warehouse.
+Results: Our experience does not support the vector representation model of clinical notes for
+searching similar patients. However, searching with an advanced synonym search method can lead to
+very good results without additional burden for the clinician: we achieved a precision of 0.93 [0.90;
+0.96] and a recall of 0.78 [0.71; 0.85] evaluated on the basis of the ICD-10 codes of the retrieved
+patients, in a very reasonable time.

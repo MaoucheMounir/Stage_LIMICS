@@ -1,0 +1,13 @@
+We propose a new method for vectorizing a document using the relational characteristics of
+the words in the document. For the relational characteristics, we use two types of relational
+information of a word: 1) the centrality measures of the word and 2) the number of times that
+the word is used with other words in the document. We propose these methods mainly
+because information regarding the relations of a word to other words in the document are
+likely to better represent the unique characteristics of the document than the frequencybased methods (e.g., term frequency and term frequency–inverse document frequency). In
+experiments using a corpus consisting of 14 documents pertaining to four different topics,
+the results of clustering analysis using cosine similarities between vectors of relational information for words were comparable to (and more accurate than in some cases) those
+obtained using vectors of frequency-based methods. The clustering analysis using vectors
+of tie weights between words yielded the most accurate result. Although the results obtained
+for the small dataset used in this study can hardly be generalized, they suggest that at least
+in some cases, vectorization of a document using the relational characteristics of the words
+can provide more accurate results than the frequency-based vectors.

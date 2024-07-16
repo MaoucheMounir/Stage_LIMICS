@@ -1,0 +1,208 @@
+neurosurgery
+radiosurgery
+potassium-3.9 chloride-105 total co2
+disp:*60 capsule(s
+seizures
+tiny focus
+discharge date
+tid x
+admission
+discharge condition
+commands
+diagnosis
+midline
+chief complaint
+02:09pm wbc-12.2 * #
+confusion
+pain medication
+redness
+hours
+followup instructions
+sided frontal craniotomy
+frontoparietal region
+laboratory blood
+effexor
+radiation
+times
+date
+hydromorphone
+tablet po q8h
+craniotomy
+incision
+w/ panic attacks
+* urea n-10 creat-0.8 sodium-142
+post - op
+pain
+assistance
+extensive vasogenic edema
+office
+disp:*50 tablet(s
+vasogenic edema
+brain
+malformation
+removal
+time
+following
+extremities
+status post
+excessive bending
+shower cap
+eoms
+h
+home
+elective admission
+disposition
+white matter
+brief hospital course
+dexamethasone
+hemorrhage
+appointment
+difficulty
+p radiosurgery
+small hemorrhage
+weeks
+medications
+fluids
+pantoprazole
+days
+tremors
+capsule sig
+lifting
+service
+mm shift
+radionecrosis resection
+avm
+intake
+drainage
+fiber
+e.c.
+impression
+nc
+tingling
+post -
+discharge
+numbness
+signs
+advil
+weakness
+frontal radionecrosis
+e.c.)(s
+vascular malformation
+structures
+ct head post - op
+resection
+observation
+cat scan
+small hyperdense
+findings
+subcutaneous air
+post - operative changes
+dr
+motrin
+family history
+radio therapy
+instructions
+clearance
+b
+rbc-4.03 * hgb-11.5 * hct-34.5
+history
+medication
+respiratory infection
+mcv-86 mch-28.4 mchc-33.2 rdw-13.3
+exercise
+pertinent results
+new onset
+capsule po bid
+patient
+doctor
+doses
+work
+docusate sodium
+aspirin
+residual avm
+delayed release
+previous mr
+constipation
+wound site
+vomiting
+venlafaxine
+discharge diagnosis
+refills:*0
+previous studies
+hemorrhages
+use
+f
+fever
+tablet
+headache
+keppra
+prescription
+past medical history
+focal hemosiderin deposition
+post - operative mri
+fax results
+post - operative office visit
+tablet po bid
+tablets po
+small amount
+family member
+birth
+anion gap-13
+tenderness
+invasive procedure
+tongue midline
+attending
+infection
+sex
+head injury
+social history
+sig
+admission date
+recent upper
+discharge instructions
+day
+anti - inflammatory medicines
+necrosis
+tablet sig
+radionecrosis
+sutures
+operative pneumocephalus
+strength
+perrl
+op head ct
+codeine
+food
+disp:*12 tablet(s
+anti - seizure medicine
+mental status
+contrast prior
+present illness
+mass"-like radiation necrosis
+taper
+acetaminophen
+hair
+change
+surgeon immediately
+narcotics
+p
+driving
+pain medicine
+touch
+postoperative field
+presents
+sensation
+icu
+extensive confluent hypodensity
+operative bed
+ibuprofen
+allergies
+hyperdensity
+physical exam
+dysrhythmia
+po q24h
+* refills:*2
+resid edema
+nausea
+major surgical
+levetiracetam
+pathology report

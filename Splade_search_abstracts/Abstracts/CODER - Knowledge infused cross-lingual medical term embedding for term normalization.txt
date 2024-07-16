@@ -1,0 +1,10 @@
+This paper proposes CODER: contrastive learning on knowledge
+graphs for cross-lingual medical term reprensentation. CODER is
+designed for medical term normalization by providing close vector
+representations for different terms that represent the same or similar medical concepts with cross-lingual support. We train CODER
+via contrastive learning on a medical knowledge graph (KG) named
+the Unified Medical Language System [5], where similarities are
+calculated utilizing both terms and relation triplets from KG. Training with relations injects medical knowledge into embeddings and
+aims to provide potentially better machine learning features. We
+evaluate CODER in zero-shot term normalization, semantic similarity, and relation classification benchmarks, which show that
+CODER outperforms various state-of-the-art biomedical word embeddings, concept embeddings, and contextual embeddings.
